@@ -1,23 +1,21 @@
 ---
 title: "Merhaba Dünya"
-date: 2024-01-19T20:30:00+03:00
+date: 2026-01-19T21:55:48+03:00
 draft: false
-tags: ["örnek", "papermod"]
+tags: ["init"]
 categories: ["genel"]
 ---
 
-## PaperMod Temasına Hoş Geldiniz
+## Merhaba bu benim ilk yazım
 
-Bu, PaperMod teması kullanılarak oluşturulmuş örnek bir yazıdır.
+Selamlar, ben Samet Öz. Bu yazımda sadece bir deneme yapıyorum.
 
-### Özellikler
+### Eklenecek Özellikler
 
-- Temiz ve minimalist tasarım
-- Karanlık mod desteği
-- Hızlı yükleme süresi
+- kimdir subdomaini ile cv sayfası
+- blog
+- google analytics
 
-```python
-print("Merhaba Dünya")
+```ruby
+puts "Merhaba Dünya"
 ```
-
-Keyifli okumalar!
